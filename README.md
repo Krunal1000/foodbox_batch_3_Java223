@@ -4,5 +4,5 @@
 This is made possible through the use of electronic payment system.
 It is possible for everyone to order any 
 goods from anywhere the internet and have the goods delivered at 
-his/her home. the necessary tool for this process telecommunication 
-with customers.  <<<<<<<<==========
+his/her home. the necessary tool for this process telecommunication with customers.
+# <<<<<<<<==========
